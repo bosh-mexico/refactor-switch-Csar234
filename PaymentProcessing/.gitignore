@@ -1,0 +1,30 @@
+﻿# Build results
+bin/
+obj/
+
+# Visual Studio cache/options directory
+.vs/
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Auto-generated files
+*.vsidx
+*.cache
+*.log
+*.tlog
+*.pdb
+
+# Build artifacts
+*.exe
+*.dll
+*.pdb
+*.apphost.exe
+*.runtimeconfig.json
+*.deps.json
+
+# Temporary files
+*.tmp
